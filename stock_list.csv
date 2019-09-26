@@ -1,0 +1,511 @@
+symbol,name ,exchange
+CBOE,CBOE Holdings Inc,American Stock Exchange
+ABMD,"ABIOMED, Inc.",NASDAQ
+ATVI,"Activision Blizzard, Inc.",NASDAQ
+ADBE,Adobe Systems Incorporated,NASDAQ
+AMD,ADVANCED MICRO DEVICES INC,NASDAQ
+AKAM,"Akamai Technologies, Inc.",NASDAQ
+ALXN,"Alexion Pharmaceuticals, Inc.",NASDAQ
+ALGN,Align Technology Inc.,NASDAQ
+GOOG,"Alphabet, Inc.",NASDAQ
+GOOGL,"Alphabet, Inc.",NASDAQ
+AMZN,"Amazon.com, Inc.",NASDAQ
+AAL,American Airlines Group Inc.,NASDAQ
+AMGN,Amgen Inc.,NASDAQ
+ADI,ANALOG DEVICES INC,NASDAQ
+ANSS,"ANSYS, Inc.",NASDAQ
+AAPL,Apple Inc.,NASDAQ
+AMAT,"Applied Materials, Inc.",NASDAQ
+ADSK,"Autodesk, Inc.",NASDAQ
+ADP,AUTOMATIC DATA PROCESSING INC.,NASDAQ
+BYND,Beyond Meat Inc.,NASDAQ
+BIIB,Biogen Idec Inc,NASDAQ
+BKNG,Booking Holdings Inc,NASDAQ
+AVGO,Broadcom Inc,NASDAQ
+CDNS,CADENCE DESIGNS SYS INC,NASDAQ
+CELG,Celgene Corporation,NASDAQ
+CERN,Cerner Corporation,NASDAQ
+CHRW,CH Robinson Worldwide Inc,NASDAQ
+CHTR,Charter Communications Inc.,NASDAQ
+CINF,Cincinnati Financial Corporation,NASDAQ
+CTAS,Cintas Corporation,NASDAQ
+CSCO,"Cisco Systems, Inc.",NASDAQ
+CTXS,"Citrix Systems, Inc.",NASDAQ
+CME,CME Group Inc.,NASDAQ
+CTSH,Cognizant Technology Solutions Corporation,NASDAQ
+CMCSA,Comcast Corporation,NASDAQ
+CPRT,"Copart, Inc.",NASDAQ
+COST,Costco Wholesale Corporation,NASDAQ
+CSX,CSX CORP,NASDAQ
+XRAY,DENTSPLY International Inc.,NASDAQ
+FANG,"Diamondback Energy, Inc.",NASDAQ
+DISCA,Discovery Communications Inc,NASDAQ
+DISCK,"Discovery Communications, Inc",NASDAQ
+DISH,Dish Network Corp.,NASDAQ
+DLTR,"Dollar Tree, Inc.",NASDAQ
+ETFC,E*TRADE Financial Corporation,NASDAQ
+EBAY,eBay Inc.,NASDAQ
+EA,Electronic Arts Inc.,NASDAQ
+EQIX,"Equinix, Inc.",NASDAQ
+EXPE,Expedia Inc.,NASDAQ
+EXPD,"Expeditors International of Washington, Inc.",NASDAQ
+FFIV,"F5 Networks, Inc.",NASDAQ
+FB,Facebook Inc.,NASDAQ
+FAST,Fastenal Company,NASDAQ
+FITB,Fifth Third Bancorp,NASDAQ
+FISV,"Fiserv, Inc.",NASDAQ
+FLIR,"FLIR Systems, Inc.",NASDAQ
+FTNT,Fortinet Inc.,NASDAQ
+FOXA,FOX CORP - CLASS A - W-I,NASDAQ
+GRMN,Garmin Ltd.,NASDAQ
+GILD,"Gilead Sciences, Inc.",NASDAQ
+HAS,HASBRO INC,NASDAQ
+HSIC,"Henry Schein, Inc.",NASDAQ
+HOLX,"Hologic, Inc.",NASDAQ
+HBAN,Huntington Bancshares Incorporated,NASDAQ
+IDXX,"IDEXX Laboratories, Inc.",NASDAQ
+INFO,IHS Markit Ltd,NASDAQ
+ILMN,Illumina Inc,NASDAQ
+INCY,"Incyte Pharmaceuticals, Inc.",NASDAQ
+INTC,Intel Corporation,NASDAQ
+INTU,Intuit Inc.,NASDAQ
+ISRG,Intuitive Surgical,NASDAQ
+IPGP,IPG Photonics Corporation,NASDAQ
+JBHT,"J.B. Hunt Transport Services, Inc.",NASDAQ
+JKHY,"Jack Henry & Associates, Inc.",NASDAQ
+KLAC,KLA-Tencor Corporation,NASDAQ
+KHC,Kraft Heinz Co,NASDAQ
+LRCX,Lam Research Corporation,NASDAQ
+LKQ,LKQ Corp,NASDAQ
+MKTX,MarketAxess Holdings,NASDAQ
+MAR,"Marriott International, Inc.",NASDAQ
+MXIM,Maxim Integrated Products Inc,NASDAQ
+MCHP,Microchip Technology Incorporated,NASDAQ
+MU,MICRON TECHNOLOGY INC,NASDAQ
+MSFT,Microsoft Corporation,NASDAQ
+MDLZ,"Mondelez International, Inc.",NASDAQ
+MNST,Monster Beverage Corporation,NASDAQ
+MYL,Mylan N.V.,NASDAQ
+NDAQ,"NASDAQ Stock Market, Inc",NASDAQ
+NKTR,NEKTAR THERAPEUTICS,NASDAQ
+NTAP,"NetApp, Inc.",NASDAQ
+NFLX,Netflix Com Inc,NASDAQ
+NWL,Newell Brands Inc,NASDAQ
+NWSA,News Corporation,NASDAQ
+NWS,News Corporation,NASDAQ
+NTRS,Northern Trust Corporation,NASDAQ
+NVDA,NVIDIA Corporation,NASDAQ
+ORLY,O'Reilly Automotive Inc.,NASDAQ
+PCAR,PACCAR Inc,NASDAQ
+PAYX,"Paychex, Inc.",NASDAQ
+PYPL,Paypal Holdings INC,NASDAQ
+PBCT,People's United Financial Inc,NASDAQ
+PEP,PEPSICO INC,NASDAQ
+PFG,Principal Financial Group Inc,NASDAQ
+QRVO,Qorvo Inc,NASDAQ
+QCOM,QUALCOMM Incorporated,NASDAQ
+REGN,"Regeneron Pharmaceuticals, Inc.",NASDAQ
+ROST,"Ross Stores, Inc.",NASDAQ
+SBAC,SBA Communications Corp,NASDAQ
+STX,Seagate Technology,NASDAQ
+SIVB,Silicon Valley Bancshares,NASDAQ
+SWKS,Skyworks Solutions Inc,NASDAQ
+SBUX,Starbucks Corporation,NASDAQ
+SYMC,Symantec Corporation,NASDAQ
+SNPS,"Synopsys, Inc.",NASDAQ
+TMUS,"T-Mobile US, Inc.",NASDAQ
+TROW,"T. Rowe Price Associates, Inc.",NASDAQ
+TTWO,"Take-Two Interactive Software, Inc.",NASDAQ
+TSLA,Tesla Motors,NASDAQ
+TXN,TEXAS INSTRUMENTS INC,NASDAQ
+TSCO,Tractor Supply Company,NASDAQ
+TRIP,TripAdvisor Inc.,NASDAQ
+FOX,"Twenty-First Century Fox, Inc.",NASDAQ
+ULTA,"Ulta Salon, Cosmetics & Fragrance, Inc.",NASDAQ
+UAL,"UNITED CONTINENTAL HOLDINGS, I",NASDAQ
+VRSN,"VeriSign, Inc.",NASDAQ
+VRSK,"Verisk Analytics, Inc.",NASDAQ
+VRTX,Vertex Pharmaceuticals Incorporated,NASDAQ
+VIAB,Viacom Inc Class B,NASDAQ
+WBA,Walgreens Boots Alliance,NASDAQ
+WDC,WESTERN DIGITAL CORP,NASDAQ
+WLTW,Willis Towers Watson PLC,NASDAQ
+WYNN,Wynn Resorts Ltd,NASDAQ
+XEL,XCEL ENERGY INC,NASDAQ
+XLNX,"Xilinx, Inc.",NASDAQ
+ZION,Zions Bancorporation,NASDAQ
+MMM,3M Company,New York Stock Exchange
+ABT,ABBOTT LABS,New York Stock Exchange
+ABBV,AbbVie Inc.,New York Stock Exchange
+ACN,Accenture plc,New York Stock Exchange
+AAP,Advance Auto Parts Inc.,New York Stock Exchange
+AES,AES CORP,New York Stock Exchange
+AMG,AFFILIATED MANAGERS GROUP IN,New York Stock Exchange
+AFL,AFLAC INC.,New York Stock Exchange
+A,AGILENT TECHNOLOGIES INC,New York Stock Exchange
+APD,AIR PRODS & CHEMS INC,New York Stock Exchange
+ALK,ALASKA AIR GROUP INC,New York Stock Exchange
+ALB,ALBEMARLE CORP,New York Stock Exchange
+ARE,ALEXANDRIA REAL ESTATE EQUITIES INC,New York Stock Exchange
+BABA,Alibaba Group Holding Ltd,New York Stock Exchange
+ALLE,Allegion plc Ordinary Shares Wh,New York Stock Exchange
+AGN,Allergan plc Ordinary Shares,New York Stock Exchange
+ADS,ALLIANCE DATA SYSTEMS CORP,New York Stock Exchange
+LNT,ALLIANT ENERGY CORP,New York Stock Exchange
+ALL,ALLSTATE CORP,New York Stock Exchange
+MO,Altria,New York Stock Exchange
+AMCR,Amcor PLC,New York Stock Exchange
+AEE,AMEREN CORP,New York Stock Exchange
+AEP,AMERICAN ELEC PWR INC,New York Stock Exchange
+AXP,AMERICAN EXPRESS CO,New York Stock Exchange
+AIG,AMERICAN INTL GROUP INC,New York Stock Exchange
+AMT,American Tower Corporation,New York Stock Exchange
+AWK,AMERICAN WTR WKS INC,New York Stock Exchange
+AMP,AMERIPRISE FINANCIAL,New York Stock Exchange
+ABC,AmerisourceBergen Corp,New York Stock Exchange
+AME,AMETEK Inc.,New York Stock Exchange
+APH,AMPHENOL CORP NEW,New York Stock Exchange
+ANTM,Anthem Inc,New York Stock Exchange
+AON,Aon plc,New York Stock Exchange
+APA,APACHE CORP,New York Stock Exchange
+AIV,Apartment Investment & Management Company,New York Stock Exchange
+APTV,APTIV PLC,New York Stock Exchange
+ADM,ARCHER DANIELS MIDLAND CO,New York Stock Exchange
+ARNC,Arconic Inc,New York Stock Exchange
+ANET,Arista Network Inc,New York Stock Exchange
+AIZ,Assurant Inc,New York Stock Exchange
+T,AT&T INC,New York Stock Exchange
+ATO,Atmos Energy Corporation,New York Stock Exchange
+AZO,AUTOZONE INC,New York Stock Exchange
+AVB,AVALONBAY CMNTYS INC,New York Stock Exchange
+AVY,AVERY DENNISON CORP,New York Stock Exchange
+BHGE,Baker Hughes A GE,New York Stock Exchange
+BLL,BALL CORP,New York Stock Exchange
+BAC,BANK OF AMERICA CORP,New York Stock Exchange
+BAX,BAXTER INTL INC,New York Stock Exchange
+BBT,BB&T CORP,New York Stock Exchange
+BDX,BECTON DICKINSON & CO,New York Stock Exchange
+BRKB,Berkshire Hathaway Inc.,New York Stock Exchange
+BBY,BEST BUY INC,New York Stock Exchange
+BLK,BLACKROCK INC,New York Stock Exchange
+HRB,BLOCK H & R INC,New York Stock Exchange
+BA,BOEING CO,New York Stock Exchange
+BWA,BORG WARNER AUTOMOTIVE INC,New York Stock Exchange
+BXP,BOSTON PPTYS INC,New York Stock Exchange
+BSX,BOSTON SCIENTIFIC CORP,New York Stock Exchange
+BMY,BRISTOL MYERS SQUIBB CO,New York Stock Exchange
+BR,Broadridge Financial Solutions Inc,New York Stock Exchange
+BF-B,Brown-Forman Corp,New York Stock Exchange
+COG,Cabot Oil & Gas Corporation,New York Stock Exchange
+CPB,CAMPBELL SOUP CO,New York Stock Exchange
+COF,CAPITAL ONE FINL CORP,New York Stock Exchange
+CPRI,Capri Holdings Ltd,New York Stock Exchange
+CAH,CARDINAL HEALTH INC,New York Stock Exchange
+KMX,Carmax Inc,New York Stock Exchange
+CCL,Carnival Corporation,New York Stock Exchange
+CAT,CATERPILLAR INC,New York Stock Exchange
+CBRE,CBRE Group Inc Class A,New York Stock Exchange
+CBS,CBS CORP,New York Stock Exchange
+CE,CELANESE Corp,New York Stock Exchange
+CNC,Centene Corp,New York Stock Exchange
+CNP,CENTERPOINT ENERGY INC,New York Stock Exchange
+CTL,CENTURYTEL INC,New York Stock Exchange
+CF,"CF Industries Holdings, Inc.",New York Stock Exchange
+CVX,CHEVRONTEXACO,New York Stock Exchange
+CMG,"Chipotle Mexican Grill, Inc.",New York Stock Exchange
+CB,CHUBB CORP,New York Stock Exchange
+CHD,CHURCH & DWIGHT INC,New York Stock Exchange
+CI,CIGNA CORP,New York Stock Exchange
+XEC,Cimarex Energy Co,New York Stock Exchange
+C,Citigroup Inc,New York Stock Exchange
+CFG,Citizen Financial Group Inc,New York Stock Exchange
+CLX,CLOROX CO,New York Stock Exchange
+CMS,CMS ENERGY CORP,New York Stock Exchange
+KO,COCA COLA CO,New York Stock Exchange
+CL,Colgate-Palmolive Company,New York Stock Exchange
+CMA,COMERICA INC,New York Stock Exchange
+CAG,CONAGRA INC,New York Stock Exchange
+CXO,CONCHO RESOURCES INC,New York Stock Exchange
+COP,Conocophillips,New York Stock Exchange
+ED,CONSOLIDATED EDISON INC,New York Stock Exchange
+STZ,Constellation Brands Inc,New York Stock Exchange
+GLW,CORNING INC,New York Stock Exchange
+CTVA,CORTEVA INC-W-I,New York Stock Exchange
+COTY,Coty Inc.,New York Stock Exchange
+CCI,Crown Castle International Corp.,New York Stock Exchange
+CMI,CUMMINS INC,New York Stock Exchange
+CVS,CVS CORP,New York Stock Exchange
+DHI,D R HORTON INC,New York Stock Exchange
+DHR,DANAHER CORP,New York Stock Exchange
+DRI,DARDEN RESTAURANTS INC,New York Stock Exchange
+DVA,DaVita HealthCare Partners Inc.,New York Stock Exchange
+DE,DEERE & CO,New York Stock Exchange
+DAL,Delta Air Lines Inc.,New York Stock Exchange
+DVN,Devon Energy Corporation,New York Stock Exchange
+DLR,Digital Realty Trust,New York Stock Exchange
+DFS,Discover Financial Services,New York Stock Exchange
+DG,Dollar General Corporation,New York Stock Exchange
+D,DOMINION RESOURCES,New York Stock Exchange
+DOV,DOVER CORP,New York Stock Exchange
+DOW,Dow Inc-W-I,New York Stock Exchange
+DTE,DTE ENERGY COMPANY,New York Stock Exchange
+DRE,DUKE-WEEKS REALTY CORP,New York Stock Exchange
+DUK,Duke Energy Corporation,New York Stock Exchange
+DD,DuPont de Nemours Inc,New York Stock Exchange
+DXC,DXC Technology Co,New York Stock Exchange
+EMN,EASTMAN CHEM CO,New York Stock Exchange
+ETN,Eaton Corporation plc,New York Stock Exchange
+ECL,ECOLAB INC,New York Stock Exchange
+EIX,EDISON INTL,New York Stock Exchange
+EW,EDWARDS LIFESCIENCES CORP,New York Stock Exchange
+LLY,ELI LILLY & CO,New York Stock Exchange
+EMR,Emerson Electric Co.,New York Stock Exchange
+ES,"EnergySolutions, Inc",New York Stock Exchange
+ETR,ENTERGY CORP NEW,New York Stock Exchange
+EOG,EOG Resources Incorporated,New York Stock Exchange
+EFX,EQUIFAX INC.,New York Stock Exchange
+EQR,EQUITY RESIDENTIAL PPTYS TR,New York Stock Exchange
+ESS,ESSEX PPTY TR,New York Stock Exchange
+EL,Estee Lauder Cos Inc,New York Stock Exchange
+RE,Everest Re Group Ltd.,New York Stock Exchange
+EVRG,"Evergy, Inc.",New York Stock Exchange
+EXC,EXELON CORP,New York Stock Exchange
+EXR,Extra Space Storage,New York Stock Exchange
+XOM,Exxon Mobil Corp,New York Stock Exchange
+FRT,FEDERAL RLTY INVT TR,New York Stock Exchange
+FDX,FedEx Corporation,New York Stock Exchange
+FIS,Fidelity National Information Service,New York Stock Exchange
+FRC,First Republic Bank,New York Stock Exchange
+FE,FIRSTENERGY CORP,New York Stock Exchange
+FLT,"FleetCor Technologies, Inc",New York Stock Exchange
+FLS,FLOWSERVE CORP,New York Stock Exchange
+FMC,FMC CORP,New York Stock Exchange
+FTI,Fmc Technologies,New York Stock Exchange
+F,Ford Motor,New York Stock Exchange
+FTV,Fortive Corp,New York Stock Exchange
+FBHS,Fortune Brands Home & Security Inc,New York Stock Exchange
+BEN,FRANKLIN RESOURCES INC.,New York Stock Exchange
+FCX,FREEPORT MCMORAN COPPER&GOLD,New York Stock Exchange
+AJG,GALLAGHER ARTHUR J & CO,New York Stock Exchange
+GPS,GAP INC delaware,New York Stock Exchange
+IT,GARTNER GROUP INC NEW,New York Stock Exchange
+GD,GENERAL DYNAMICS CORP,New York Stock Exchange
+GE,General Electric Co.,New York Stock Exchange
+GIS,GENERAL MLS INC,New York Stock Exchange
+GM,General Motors Corporation,New York Stock Exchange
+GPC,GENUINE PARTS CO,New York Stock Exchange
+GPN,Global Pmts Inc,New York Stock Exchange
+GL,GLOBE LIFE INC,New York Stock Exchange
+GS,GOLDMAN SACHS GROUP INC,New York Stock Exchange
+GWW,GRAINGER W W INC,New York Stock Exchange
+HAL,HALLIBURTON CO,New York Stock Exchange
+HBI,Hanesbrands Inc.,New York Stock Exchange
+HOG,HARLEY DAVIDSON INC,New York Stock Exchange
+HIG,HARTFORD FINL SVCS GROUP INC,New York Stock Exchange
+HCA,HCA Holdings Inc,New York Stock Exchange
+HCP,"HCP, Inc.",New York Stock Exchange
+HP,HELMERICH & PAYNE INC,New York Stock Exchange
+HSY,HERSHEY FOODS CORP,New York Stock Exchange
+HES,Hess Corporation,New York Stock Exchange
+HPE,Hewlett Packard Enterprise Comp,New York Stock Exchange
+HLT,Hilton Worldwide Holdings,New York Stock Exchange
+HFC,HollyFrontier Corporation Commo,New York Stock Exchange
+HD,HOME DEPOT INC,New York Stock Exchange
+HON,Honeywell International,New York Stock Exchange
+HRL,HORMEL FOODS CORP,New York Stock Exchange
+HST,Host Hotels & Resorts,New York Stock Exchange
+HPQ,HP Inc,New York Stock Exchange
+HUM,HUMANA INC,New York Stock Exchange
+HII,Huntington Ingalls Industrie,New York Stock Exchange
+IBM,IBM Corp.,New York Stock Exchange
+IEX,IDEX Corporation,New York Stock Exchange
+ITW,ILLINOIS TOOL WKS INC,New York Stock Exchange
+IR,Ingersoll-Rand Plc,New York Stock Exchange
+ICE,"IntercontinentalExchange, Inc.",New York Stock Exchange
+IFF,INTERNATIONAL FLAVRS & FRAGR,New York Stock Exchange
+IP,INTERNATIONAL PAPER CO,New York Stock Exchange
+IPG,INTERPUBLIC GROUP COS INC,New York Stock Exchange
+IVZ,Invesco Ltd.,New York Stock Exchange
+IQV,IQVIA Holdings Inc.,New York Stock Exchange
+IRM,Iron Mountain Inc.,New York Stock Exchange
+JEC,JACOBS ENGR GROUP INC,New York Stock Exchange
+JEF,JEFFERIES FINANCIAL GROUP INC,New York Stock Exchange
+JNJ,JOHNSON & JOHNSON,New York Stock Exchange
+JCI,Johnson Controls Inc.,New York Stock Exchange
+JPM,JP MORGAN CHASE & CO,New York Stock Exchange
+JNPR,Juniper Networks,New York Stock Exchange
+KSU,KANSAS CITY SOUTHN INDS INC,New York Stock Exchange
+K,Kellogg Company,New York Stock Exchange
+KEY,KEYCORP NEW,New York Stock Exchange
+KEYS,Keysight Technologies Inc,New York Stock Exchange
+KMB,KIMBERLY CLARK CORP,New York Stock Exchange
+KIM,Kimco Realty Corporation,New York Stock Exchange
+KMI,"Kinder Morgan, Inc.",New York Stock Exchange
+KSS,KOHLS CORP,New York Stock Exchange
+KR,KROGER CO,New York Stock Exchange
+LB,"L Brands, Inc.",New York Stock Exchange
+LHX,L3Harris Technologies Inc,New York Stock Exchange
+LH,LABORATORY CORPORATION OF AMERICA HOLDINGS,New York Stock Exchange
+LW,LAMB WESTON HOLDINGS INC,New York Stock Exchange
+LEG,LEGGETT & PLATT INC,New York Stock Exchange
+LDOS,"Leidos Holdings, Inc. Common St",New York Stock Exchange
+LEN,LENNAR CORP,New York Stock Exchange
+LNC,LINCOLN NATL CORP,New York Stock Exchange
+LIN,LINDE PLC,New York Stock Exchange
+LMT,Lockheed Martin,New York Stock Exchange
+L,LOEWS CORP,New York Stock Exchange
+LOW,LOWES COS INC,New York Stock Exchange
+LYB,LyondellBasell Industries NV,New York Stock Exchange
+MTB,M&T Bank Corp.,New York Stock Exchange
+MAC,MACERICH CO,New York Stock Exchange
+M,"Macy's, Inc.",New York Stock Exchange
+MPC,Marathon Petroleum Corp,New York Stock Exchange
+MMC,MARSH & MCLENNAN COS INC,New York Stock Exchange
+MLM,MARTIN MARIETTA MATERIALS INC.,New York Stock Exchange
+MAS,MASCO CORP,New York Stock Exchange
+MA,MASTERCARD INC,New York Stock Exchange
+MKC,McCormick & Co. Inc.,New York Stock Exchange
+MCD,MCDONALDS CORP,New York Stock Exchange
+MCK,MCKESSON HBOC INC,New York Stock Exchange
+MDT,"Medtronic, Inc.",New York Stock Exchange
+MRK,Merck & Co. Inc.,New York Stock Exchange
+MET,Metlife Inc.,New York Stock Exchange
+MTD,METTLER-TOLEDO INTL INC,New York Stock Exchange
+MGM,MGM MIRAGE INC,New York Stock Exchange
+MAA,MID-AMERICA APARTMENT COMMUNITIES,New York Stock Exchange
+MHK,MOHAWK INDS INC,New York Stock Exchange
+TAP,Molson Coors Brewing Co,New York Stock Exchange
+MCO,MOODY'S CORP,New York Stock Exchange
+MS,MORGAN STANLEY,New York Stock Exchange
+MOS,Mosaic Company,New York Stock Exchange
+MSI,MOTOROLA SOLUTIONS INC,New York Stock Exchange
+MSCI,MSCI Inc,New York Stock Exchange
+NOV,NATIONAL-OILWELL INC,New York Stock Exchange
+NCLH,NCL Corporation Ltd.,New York Stock Exchange
+NEM,NEWMONT MNG CORP,New York Stock Exchange
+NEE,"NextEra Energy, Inc.",New York Stock Exchange
+NLSN,Nielsen Holdings plc,New York Stock Exchange
+NKE,NIKE INC,New York Stock Exchange
+NI,NISOURCE INC,New York Stock Exchange
+NBL,NOBLE ENERGY INC,New York Stock Exchange
+JWN,NORDSTROM INC,New York Stock Exchange
+NSC,NORFOLK SOUTHN CORP,New York Stock Exchange
+NOC,NORTHROP GRUMMAN CORP,New York Stock Exchange
+NRG,NRG Energy Inc.,New York Stock Exchange
+NUE,NUCOR CORP,New York Stock Exchange
+OXY,Occidental Petroleum Corp.,New York Stock Exchange
+OMC,OMNICOM GROUP INC,New York Stock Exchange
+OKE,ONEOK INC NEW,New York Stock Exchange
+ORCL,Oracle Corporation,New York Stock Exchange
+PKG,PACKAGING CORP AMER,New York Stock Exchange
+PH,PARKER HANNIFIN CORP,New York Stock Exchange
+PNR,Pentair Ltd.,New York Stock Exchange
+PKI,"PerkinElmer, Inc.",New York Stock Exchange
+PRGO,Perrigo Company Public Limited Company,New York Stock Exchange
+PFE,Pfizer Inc,New York Stock Exchange
+PM,Philip Morris International INC,New York Stock Exchange
+PSX,"Phillips 66 Common Stock ""When",New York Stock Exchange
+PNW,PINNACLE WEST CAP CORP,New York Stock Exchange
+PXD,Pioneer Natural Resources Co.,New York Stock Exchange
+PNC,PNC BK CORP,New York Stock Exchange
+PPG,PPG INDS INC,New York Stock Exchange
+PPL,PPL Corp,New York Stock Exchange
+PG,PROCTER & GAMBLE CO,New York Stock Exchange
+PGR,PROGRESSIVE CORP OHIO,New York Stock Exchange
+PLD,"Prologis, Inc.",New York Stock Exchange
+PRU,Prudential Fincl Inc,New York Stock Exchange
+PEG,Public Service Enterprise Group,New York Stock Exchange
+PSA,PUBLIC STORAGE INC,New York Stock Exchange
+PHM,PULTE CORP,New York Stock Exchange
+PVH,PVH Corp.,New York Stock Exchange
+PWR,QUANTA SVCS INC,New York Stock Exchange
+DGX,QUEST DIAGNOSTICS INC,New York Stock Exchange
+RL,Ralph Lauren Corporation,New York Stock Exchange
+RJF,RAYMOND JAMES FINL INC,New York Stock Exchange
+RTN,Raytheon,New York Stock Exchange
+O,Realty Income,New York Stock Exchange
+REG,Regency Centers Corporation,New York Stock Exchange
+RF,Regions Financial Corp,New York Stock Exchange
+RSG,REPUBLIC SVCS INC,New York Stock Exchange
+RMD,RESMED INC,New York Stock Exchange
+RHI,ROBERT HALF INTL INC,New York Stock Exchange
+ROK,ROCKWELL INTL CORP NEW,New York Stock Exchange
+ROL,ROLLINS INC,New York Stock Exchange
+ROP,ROPER INDUSTRIES INC. NEW,New York Stock Exchange
+RCL,ROYAL CARIBBEAN CRUISES LTD,New York Stock Exchange
+SPGI,S&P Global Inc,New York Stock Exchange
+CRM,salesforce.com inc,New York Stock Exchange
+SLB,SCHLUMBERGER LTD,New York Stock Exchange
+SCHW,SCHWAB CHARLES CORP NEW,New York Stock Exchange
+SEE,SEALED AIR CORP NEW,New York Stock Exchange
+SRE,SEMPRA ENERGY,New York Stock Exchange
+SHW,SHERWIN WILLIAMS CO,New York Stock Exchange
+SPG,SIMON PPTY GROUP INC NEW,New York Stock Exchange
+SLG,SL GREEN RLTY CORP,New York Stock Exchange
+WORK,Slack Technologies Inc,New York Stock Exchange
+AOS,SMITH A O CORP,New York Stock Exchange
+SJM,SMUCKER J M CO,New York Stock Exchange
+SNA,SNAP ON TOOLS CORP,New York Stock Exchange
+SO,Southern Company,New York Stock Exchange
+LUV,SOUTHWEST AIRLS CO,New York Stock Exchange
+SWK,"Stanley Black & Decker, Inc.",New York Stock Exchange
+STT,STATE STR CORP,New York Stock Exchange
+SYK,STRYKER CORP,New York Stock Exchange
+STI,SUNTRUST BKS INC,New York Stock Exchange
+SYF,Synchrony Financial,New York Stock Exchange
+SYY,SYSCO Corporation,New York Stock Exchange
+TPR,Tapestry Inc,New York Stock Exchange
+TGT,TARGET CORP,New York Stock Exchange
+TEL,TE Connectivity Ltd,New York Stock Exchange
+TFX,TELEFLEX INC,New York Stock Exchange
+TXT,TEXTRON INC,New York Stock Exchange
+BK,The Bank of New York Mellon Corporation,New York Stock Exchange
+COO,"The Cooper Companies, Inc.",New York Stock Exchange
+TRV,The Travelers Companies,New York Stock Exchange
+DIS,The Walt Disney Company,New York Stock Exchange
+TMO,THERMO ELECTRON CORP,New York Stock Exchange
+TIF,TIFFANY & CO NEW,New York Stock Exchange
+TJX,TJX Companies Inc,New York Stock Exchange
+TSS,"Total System Services, Inc.",New York Stock Exchange
+TDG,TransDigm Group Incorporated,New York Stock Exchange
+TWTR,"Twitter, Inc.",New York Stock Exchange
+TSN,TYSON FOODS INC,New York Stock Exchange
+UBER,"Uber Technologies, Inc.",New York Stock Exchange
+UDR,"UDR, Inc.",New York Stock Exchange
+UAA,Under Armour Inc,New York Stock Exchange
+UA,Under Armour Inc,New York Stock Exchange
+UNP,Union Pacific Corporation,New York Stock Exchange
+UNH,UNITED HEALTHCARE CORP,New York Stock Exchange
+UPS,UNITED PARCEL SVC INC,New York Stock Exchange
+URI,United Rental Inc.,New York Stock Exchange
+UTX,UNITED TECHNOLOGIES CORP,New York Stock Exchange
+UHS,UNIVERSAL HEALTH SVCS INC,New York Stock Exchange
+UNM,UNUMPROVIDENT CORP,New York Stock Exchange
+USB,US BANCORP DEL,New York Stock Exchange
+MRO,USX MARATHON LG-TM,New York Stock Exchange
+VFC,V F CORP,New York Stock Exchange
+VLO,Valero Energy Corporation,New York Stock Exchange
+VAR,VARIAN MED SYS INC,New York Stock Exchange
+VTR,VENTAS INC,New York Stock Exchange
+VZ,VERIZON COMMUNICATIONS,New York Stock Exchange
+V,Visa INC,New York Stock Exchange
+VNO,VORNADO RLTY TR,New York Stock Exchange
+VMC,VULCAN MATLS CO,New York Stock Exchange
+WAB,Wabtec Corp,New York Stock Exchange
+WMT,WAL MART STORES INC,New York Stock Exchange
+WM,"Waste Management, Inc.",New York Stock Exchange
+WAT,WATERS CORP,New York Stock Exchange
+WEC,"WEC Energy Group, Inc.",New York Stock Exchange
+WCG,Wellcare Health Plans Inc.,New York Stock Exchange
+WFC,WELLS FARGO & CO NEW,New York Stock Exchange
+WELL,Welltower Inc.,New York Stock Exchange
+WU,Western Union Company,New York Stock Exchange
+WRK,WestRock Co,New York Stock Exchange
+WY,WEYERHAEUSER CO,New York Stock Exchange
+WHR,WHIRLPOOL CORP,New York Stock Exchange
+WMB,WILLIAMS COS INC,New York Stock Exchange
+XRX,Xerox Holdings Corp,New York Stock Exchange
+XYL,Xylem Inc,New York Stock Exchange
+YUM,Yum! Brands Inc,New York Stock Exchange
+ZBH,Zimmer Biomet Holdings Inc,New York Stock Exchange
+ZTS,Zoetis Inc.,New York Stock Exchange
